@@ -18,13 +18,13 @@ TOSS로 기부하기
 ## 사용자 구성요소를 HA에 설치하는 방법
 ### HACS
 - HACS > Integrations > 우측상단 메뉴 > `Custom repositories` 선택
-- `Add custom repository URL`에 `https://gitlab.com/ha-custom/component/kiturami` 입력
+- `Add custom repository URL`에 `https://github.com/stkang/ha-component-kiturami` 입력
 - Category 는 `Integration` 선택 후 `ADD` 클릭
 - HACS > Integrations 에서 `귀뚜라미` 찾아서 설치
 - HomeAssistant 재시작
 
 ### 수동설치
-- `https://gitlab.com/ha-custom/component/kiturami` 에서 `코드 -> 소스 코드 다운로드(zip)` 을 눌러 파일을 다운로드, 내부의 `kiturami` 폴더 확인
+- `https://github.com/stkang/ha-component-kiturami` 에서 `코드 -> 소스 코드 다운로드(zip)` 을 눌러 파일을 다운로드, 내부의 `kiturami` 폴더 확인
 - HomeAssistant 설정폴더 `/config` 내부에 `custom_components` 폴더를 생성(이미 있으면 다음 단계)<br/>설정폴더는 `configuration.yaml` 파일이 있는 폴더를 의미합니다.
 - `/config/custom_components`에 위에서 다운받은 `kiturami` 폴더를 넣기
 - HomeAssistant 재시작

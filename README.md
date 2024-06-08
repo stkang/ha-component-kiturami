@@ -2,7 +2,7 @@
 
 ![HACS][hacs-shield]
 
-<img src="./images/showcase.png" title="Showcase" alt="Showcase" />
+<img src="https://github.com/stkang/ha-component-kiturami/blob/master/images/showcase.png?raw=true" title="Showcase" alt="Showcase" />
 
 문의 : 네이버 [HomeAssistant카페](https://cafe.naver.com/koreassistant)
 
@@ -43,7 +43,7 @@
 - 검색창에서 `귀뚜라미` 입력 후 선택
 - 아이디 비밀번호 입력
 
-<img src="./images/config_flow.png" title="ConfigFlow" alt="ConfigFlow" />
+<img src="https://github.com/stkang/ha-component-kiturami/blob/master/images/config_flow.png?raw=true" title="ConfigFlow" alt="ConfigFlow" />
 
 
 

@@ -3,10 +3,10 @@
   "name": "귀뚜라미",
   "codeowners": ["@stkang90"],
   "config_flow": true,
-  "documentation": "https://github.com/stkang/home-assistant-custom-component",
+  "documentation": "https://github.com/stkang/ha-component-kiturami",
   "dependencies": [],
   "requirements": [],
   "iot_class": "cloud_polling",
   "version": "1.1.0",
-  "issue_tracker": "https://github.com/stkang/home-assistant-custom-component/issues"
+  "issue_tracker": "https://github.com/stkang/ha-component-kiturami/issues"
 }
